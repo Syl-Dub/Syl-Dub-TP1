@@ -2,14 +2,5 @@
 
 ## Chicorée Sauvage
 
+![Image](https://github.com/Syl-Dub/Syl-Dub-TP1/blob/gh-pages/DSC_0480.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
