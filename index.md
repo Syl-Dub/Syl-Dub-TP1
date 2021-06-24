@@ -1,6 +1,6 @@
-# Belles Bleues
+# **Belles Bleues**
 
-## Chicorée Sauvage
+## **Chicorée Sauvage** _Cichorium Intybus_
 ### Cette Belle Qui Vient D'Europe
 
 ![Image](/images/DSC_0480.jpg)
