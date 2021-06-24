@@ -1,6 +1,19 @@
 # Belles Bleues
 
 ## Chicorée Sauvage
-### Cette Belle Qui Vient D'Europe
+   ### Cette Belle Qui Vient D'Europe
 
 ![Image](/images/DSC_0480.jpg)
+
+## Pourquoi on l'aime
+* On la rencontre en randonnée
+  * Terrains vagues
+  * Bords de routes
+* Fleurit tout l'été
+  * Fleur ne de dure qu'une journée
+  * Nouvelle fleur chaque jour
+* Attire les pollinisateurs
+1. Facile de culture
+    1. Sols sablonneux
+    2. Sols rocailleux 
+1. Succédané du café (Racine pivotante)
